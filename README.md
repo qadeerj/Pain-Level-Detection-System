@@ -1,8 +1,4 @@
-Great! Here's a professional and comprehensive `README.md` file for your GitHub repository based on your project **"Pain Detection System using UNBC Dataset & ResNet-18"**. This will help others understand, use, and contribute to your project:
-
----
-
-````markdown
+markdown
 # 🧠 Pain Detection System using Deep Learning (ResNet-18)
 
 A deep learning-based system that detects **pain intensity from facial expressions** using **ResNet-18**, trained on the **UNBC-McMaster Shoulder Pain Expression Dataset**. The system supports both image uploads and live camera input, provides **real-time predictions**, and features **text-to-speech (TTS)** feedback for accessibility.

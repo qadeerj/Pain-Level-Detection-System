@@ -1,4 +1,3 @@
-markdown
 # 🧠 Pain Detection System using Deep Learning (ResNet-18)
 
 A deep learning-based system that detects **pain intensity from facial expressions** using **ResNet-18**, trained on the **UNBC-McMaster Shoulder Pain Expression Dataset**. The system supports both image uploads and live camera input, provides **real-time predictions**, and features **text-to-speech (TTS)** feedback for accessibility.

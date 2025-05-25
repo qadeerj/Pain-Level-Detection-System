@@ -1,0 +1,7 @@
+Dataset Information
+
+Dataset Link: https://www.kaggle.com/datasets/coder98/emotionpain
+
+Reason for Usage:
+
+I am using only the PSPI (Prkachin and Solomon Pain Intensity) data from this dataset because PSPI is specifically designed to detect the intensity of pain. It provides an objective measure of pain expression based on facial action units, making it highly relevant and useful for the purpose of my project.
